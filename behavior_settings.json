@@ -1,0 +1,72 @@
+[
+    {
+        "ten_nhan": 1,
+        "hanh_vi": "Vỗ tay",
+        "thoi_gian": 1.0,
+        "lap_lai": 2,
+        "muc_do": 5.0
+    },
+    {
+        "ten_nhan": 2,
+        "hanh_vi": "Lắc lư",
+        "thoi_gian": 2.0,
+        "lap_lai": 3,
+        "muc_do": 6.0
+    },
+    {
+        "ten_nhan": 3,
+        "hanh_vi": "Quay tròn",
+        "thoi_gian": 2.0,
+        "lap_lai": 2,
+        "muc_do": 6.0
+    },
+    {
+        "ten_nhan": 4,
+        "hanh_vi": "Gõ ngón tay, gõ chân",
+        "thoi_gian": 3.0,
+        "lap_lai": 1,
+        "muc_do": 2.0
+    },
+    {
+        "ten_nhan": 5,
+        "hanh_vi": "Chuyển động ngón tay, chân",
+        "thoi_gian": 2.0,
+        "lap_lai": 2,
+        "muc_do": 2.0
+    },
+    {
+        "ten_nhan": 6,
+        "hanh_vi": "Xếp đồ vật theo hàng, thứ tự",
+        "thoi_gian": 3.0,
+        "lap_lai": 2,
+        "muc_do": 3.0
+    },
+    {
+        "ten_nhan": 7,
+        "hanh_vi": "Quay đồ vật",
+        "thoi_gian": 2.0,
+        "lap_lai": 1,
+        "muc_do": 4.0
+    },
+    {
+        "ten_nhan": 8,
+        "hanh_vi": "Mở và đóng cửa",
+        "thoi_gian": 1.0,
+        "lap_lai": 0,
+        "muc_do": 5.0
+    },
+    {
+        "ten_nhan": 9,
+        "hanh_vi": "Di chuyển đồ vật lặp lại",
+        "thoi_gian": 2.0,
+        "lap_lai": 2,
+        "muc_do": 5.0
+    },
+    {
+        "ten_nhan": 10,
+        "hanh_vi": "Phân loại đồ vật",
+        "thoi_gian": 2.0,
+        "lap_lai": 2,
+        "muc_do": 1.0
+    }
+]
